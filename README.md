@@ -18,16 +18,26 @@
 ## 📂 File Structure
 
 physics-motion-simulator/
+
 ├── app.py # Main Streamlit app
+
 ├── main.py
+
 ├── motion.py # Physics logic (Body class)
+
 ├── simulator.py # Simulation functions
+
 ├── utils.py # History handling
+
 ├── requirements.txt # Python dependencies
+
 ├── data/
+
 │ └── history.json # Saved results
+
 ├── banner.png
-└── README.md
+
+git └── README.md
 
 Concepts Used
 Python Classes & OOP
