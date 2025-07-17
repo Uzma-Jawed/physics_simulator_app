@@ -4,18 +4,18 @@
 
 ---
 
-## 🚀 Key Features
+### ✨ Key Features
 
-- ✅ Simulate 1D and 2D (projectile) motion using kinematic equations
-- ✅ Compare two objects side-by-side
-- ✅ Watch real-time **1D motion animation**
-- ✅ Upload CSV to simulate multiple bodies at once
-- ✅ Clean, interactive **Streamlit web interface**
-- ✅ Includes history log for previous simulations
+- 🔸 Simulate 1D and 2D (projectile) motion using kinematic equations
+- 🔸 Compare two objects side-by-side
+- 🔸 Watch real-time **1D motion animation**
+- 🔸 Upload CSV to simulate multiple bodies at once
+- 🔸 Clean, interactive **Streamlit web interface**
+- 🔸 Includes history log for previous simulations
 
 ---
 
-## 📂 File Structure
+### 📂 File Structure
 
 physics-motion-simulator/
 
@@ -37,24 +37,24 @@ physics-motion-simulator/
 
 ├── banner.png
 
-git └── README.md
+└── README.md
 
-Concepts Used
-Python Classes & OOP
+✨Concepts Used
+🔸Python Classes & OOP
 
-Kinematics Equations
+🔸Kinematics Equations
 
-NumPy & Matplotlib
+🔸NumPy & Matplotlib
 
-Streamlit for UI
+🔸Streamlit for UI
 
-File handling (JSON, CSV)
+🔸File handling (JSON, CSV)
 ___
 
-Made by Uzma Jawed
+✨Made by Uzma Jawed
 ---
 
-## ▶️ Run It Locally
+### ▶️ Run It Locally
 
 ```bash
 git clone https://github.com/Uzma-Jawed/physics-motion-simulator.git
