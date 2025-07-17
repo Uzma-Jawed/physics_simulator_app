@@ -1,8 +1,6 @@
 ---
 
-## 📸 Project Showcase
-
-![cover](assets/cover.png)
+![banner](banner.png)
 
 ---
 
@@ -31,18 +29,7 @@ physics-motion-simulator/
 ├── banner.png
 └── README.md
 
-
----
-
-## ▶️ Run It Locally
-
-```bash
-git clone https://github.com/Uzma-Jawed/physics-motion-simulator.git
-cd physics-motion-simulator
-pip install -r requirements.txt
-streamlit run app.py
-
- Concepts Used
+Concepts Used
 Python Classes & OOP
 
 Kinematics Equations
@@ -52,5 +39,15 @@ NumPy & Matplotlib
 Streamlit for UI
 
 File handling (JSON, CSV)
+___
 
 Made by Uzma Jawed
+---
+
+## ▶️ Run It Locally
+
+```bash
+git clone https://github.com/Uzma-Jawed/physics-motion-simulator.git
+cd physics-motion-simulator
+pip install -r requirements.txt
+streamlit run app.py
