@@ -39,7 +39,38 @@ physics-motion-simulator/
 
 └── README.md
 
+---
+
+### 📐 Physics Formulas Used
+
+These are the core kinematic equations implemented in the simulator:
+
+### ▶️ 1D Motion (Straight Line)
+
+- **Final Velocity:**  
+  \[ v = u + at \]
+
+- **Distance Travelled:**  
+  \[ s = ut + 1/2*at^2 \]
+
+- **Velocity Squared:**  
+  \[ v^2 = u^2 + 2as \]
+
+---
+
+### 🏹 2D Projectile Motion
+
+Horizontal Distance (x). 
+
+x = uₓ * t
+
+Vertical Distance (y). 
+
+y = uᵧ * t - (1/2) * g * t²
+
+
 ✨Concepts Used
+
 🔸Python Classes & OOP
 
 🔸Kinematics Equations
