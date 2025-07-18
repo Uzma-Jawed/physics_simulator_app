@@ -82,7 +82,19 @@ y = uᵧ * t - (1/2) * g * t²
 🔸File handling (JSON, CSV)
 ___
 
-✨Made by Uzma Jawed
+### ✨Made by Uzma Jawed
+
+Linkedin: https://www.linkedin.com/posts/uzma-jawed-21684728b_python-streamlit-physics-activity-7351680813475721216-c89M?utm_source=share&utm_medium=member_android&rcm=ACoAAEZtBHIBzOS81-ASbHxMC1oCjjq3UGttDGg
+
+📄 Check out the full step-by-step journey in the document below
+
+https://lnkd.in/epYzVWAF
+
+🖥️ From initial code to graphs, animations, and upgrades  
+
+🎥 Demo video:
+ https://lnkd.in/euENh27z  
+
 ---
 
 ### ▶️ Run It Locally
